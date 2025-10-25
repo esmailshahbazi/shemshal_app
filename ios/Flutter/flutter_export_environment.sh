@@ -1,11 +1,11 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=C:\Users\User\develop\flutter"
-export "FLUTTER_APPLICATION_PATH=C:\Users\User\Desktop\New folder (2)\panel shemshal\shemshal app\flutter_application_3"
+export "FLUTTER_ROOT=C:\Users\Windows 11\develop\flutter"
+export "FLUTTER_APPLICATION_PATH=C:\Users\Windows 11\Desktop\panel shemshal\shemshal app\shemshal_app"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
-export "FLUTTER_BUILD_NAME=1.0.0"
+export "FLUTTER_BUILD_NAME=0.0.1"
 export "FLUTTER_BUILD_NUMBER=1"
 export "DART_OBFUSCATION=false"
 export "TRACK_WIDGET_CREATION=true"
